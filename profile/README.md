@@ -8,6 +8,8 @@ A work in progress.
 - [Surfaces](https://www.figma.com/file/wo9FeBMNtCwIa6y8zrzkT1/vortex.design?type=design&node-id=781-5673&mode=design&t=XGKS2yxav1eTAzcU-4)
 - [Typography](https://www.figma.com/file/wo9FeBMNtCwIa6y8zrzkT1/vortex.design?type=design&node-id=781-3941&mode=design&t=XGKS2yxav1eTAzcU-11)  
 ### Blocks
+**Done**  
+
 - [Avatar](https://www.figma.com/file/wo9FeBMNtCwIa6y8zrzkT1/vortex.design?type=design&node-id=798-2746&mode=design&t=tSeNtxfKGLNWABuV-11)  
 - [Button](https://www.figma.com/file/wo9FeBMNtCwIa6y8zrzkT1/vortex.design?type=design&node-id=806-276&mode=design&t=tSeNtxfKGLNWABuV-11)
 - [Checkbox](https://www.figma.com/file/wo9FeBMNtCwIa6y8zrzkT1/vortex.design?type=design&node-id=831-5069&mode=design&t=tSeNtxfKGLNWABuV-11)
@@ -17,6 +19,17 @@ A work in progress.
 - [Icon](https://www.figma.com/file/wo9FeBMNtCwIa6y8zrzkT1/vortex.design?type=design&node-id=798-2736&mode=design&t=tSeNtxfKGLNWABuV-11)
 - [Tag](https://www.figma.com/file/wo9FeBMNtCwIa6y8zrzkT1/vortex.design?type=design&node-id=807-2998&mode=design&t=tSeNtxfKGLNWABuV-11)
 - [Status](https://www.figma.com/file/wo9FeBMNtCwIa6y8zrzkT1/vortex.design?type=design&node-id=851-3727&mode=design&t=tSeNtxfKGLNWABuV-11)  
+
+**WIP**  
+
+- [Alert](https://www.figma.com/file/wo9FeBMNtCwIa6y8zrzkT1/vortex.design?type=design&node-id=901%3A5752&mode=design&t=jfIvVoyTpxCteSY4-1)
+- [Card](https://www.figma.com/file/wo9FeBMNtCwIa6y8zrzkT1/vortex.design?type=design&node-id=951%3A5138&mode=design&t=jfIvVoyTpxCteSY4-1)
+
+### Not started
+- 
+-
+-
+
 ## Dev  
 - [Parser for the BEM file format (Block, Element, Modifier)](https://github.com/vortex-design/bem)  
 - [BEM (Block, Element, Modifier) syntax parser for Node.js, implemented in Rust. ](https://github.com/vortex-design/bem-node)  
